@@ -12,8 +12,8 @@ Expires: 8 February 2021                                I. Lubashev, Ed.
                                                            7 August 2020
 
 
-             Packet Loss Signaling for Encrypted Protocols
-               draft-cf2bl-ippm-flow-measurements-latest
+                 Explicit Flow Measurements Techniques
+           draft-cf2bl-ippm-explicit-flow-measurements-latest
 
 Abstract
 
