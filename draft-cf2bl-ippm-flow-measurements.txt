@@ -5,15 +5,15 @@
 IPPM                                                    A. Ferrieux, Ed.
 Internet-Draft                                         I. Hamchaoui, Ed.
 Intended status: Informational                               Orange Labs
-Expires: 4 February 2021                                I. Lubashev, Ed.
+Expires: 8 February 2021                                I. Lubashev, Ed.
                                                      Akamai Technologies
                                                         D. Tikhonov, Ed.
                                                   LiteSpeed Technologies
-                                                           3 August 2020
+                                                           7 August 2020
 
 
              Packet Loss Signaling for Encrypted Protocols
-                draft-xxx-ippm-flow-measurements-latest
+               draft-cf2bl-ippm-flow-measurements-latest
 
 Abstract
 
@@ -53,12 +53,12 @@ Status of This Memo
 
 
 
-Ferrieux, et al.         Expires 4 February 2021                [Page 1]
+Ferrieux, et al.         Expires 8 February 2021                [Page 1]
 
 Internet-Draft                  loss-bits                    August 2020
 
 
-   This Internet-Draft will expire on 4 February 2021.
+   This Internet-Draft will expire on 8 February 2021.
 
 Copyright Notice
 
@@ -109,7 +109,7 @@ Table of Contents
 
 
 
-Ferrieux, et al.         Expires 4 February 2021                [Page 2]
+Ferrieux, et al.         Expires 8 February 2021                [Page 2]
 
 Internet-Draft                  loss-bits                    August 2020
 
@@ -165,7 +165,7 @@ Internet-Draft                  loss-bits                    August 2020
 
 
 
-Ferrieux, et al.         Expires 4 February 2021                [Page 3]
+Ferrieux, et al.         Expires 8 February 2021                [Page 3]
 
 Internet-Draft                  loss-bits                    August 2020
 
@@ -221,7 +221,7 @@ Internet-Draft                  loss-bits                    August 2020
 
 
 
-Ferrieux, et al.         Expires 4 February 2021                [Page 4]
+Ferrieux, et al.         Expires 8 February 2021                [Page 4]
 
 Internet-Draft                  loss-bits                    August 2020
 
@@ -277,7 +277,7 @@ Internet-Draft                  loss-bits                    August 2020
 
 
 
-Ferrieux, et al.         Expires 4 February 2021                [Page 5]
+Ferrieux, et al.         Expires 8 February 2021                [Page 5]
 
 Internet-Draft                  loss-bits                    August 2020
 
@@ -333,7 +333,7 @@ Internet-Draft                  loss-bits                    August 2020
 
 
 
-Ferrieux, et al.         Expires 4 February 2021                [Page 6]
+Ferrieux, et al.         Expires 8 February 2021                [Page 6]
 
 Internet-Draft                  loss-bits                    August 2020
 
@@ -389,7 +389,7 @@ Internet-Draft                  loss-bits                    August 2020
 
 
 
-Ferrieux, et al.         Expires 4 February 2021                [Page 7]
+Ferrieux, et al.         Expires 8 February 2021                [Page 7]
 
 Internet-Draft                  loss-bits                    August 2020
 
@@ -445,7 +445,7 @@ Internet-Draft                  loss-bits                    August 2020
 
 
 
-Ferrieux, et al.         Expires 4 February 2021                [Page 8]
+Ferrieux, et al.         Expires 8 February 2021                [Page 8]
 
 Internet-Draft                  loss-bits                    August 2020
 
@@ -501,7 +501,7 @@ Internet-Draft                  loss-bits                    August 2020
 
 
 
-Ferrieux, et al.         Expires 4 February 2021                [Page 9]
+Ferrieux, et al.         Expires 8 February 2021                [Page 9]
 
 Internet-Draft                  loss-bits                    August 2020
 
@@ -557,7 +557,7 @@ Internet-Draft                  loss-bits                    August 2020
 
 
 
-Ferrieux, et al.         Expires 4 February 2021               [Page 10]
+Ferrieux, et al.         Expires 8 February 2021               [Page 10]
 
 Internet-Draft                  loss-bits                    August 2020
 
@@ -613,7 +613,7 @@ Internet-Draft                  loss-bits                    August 2020
 
 
 
-Ferrieux, et al.         Expires 4 February 2021               [Page 11]
+Ferrieux, et al.         Expires 8 February 2021               [Page 11]
 
 Internet-Draft                  loss-bits                    August 2020
 
@@ -669,7 +669,7 @@ Internet-Draft                  loss-bits                    August 2020
 
 
 
-Ferrieux, et al.         Expires 4 February 2021               [Page 12]
+Ferrieux, et al.         Expires 8 February 2021               [Page 12]
 
 Internet-Draft                  loss-bits                    August 2020
 
@@ -725,7 +725,7 @@ Authors' Addresses
 
 
 
-Ferrieux, et al.         Expires 4 February 2021               [Page 13]
+Ferrieux, et al.         Expires 8 February 2021               [Page 13]
 
 Internet-Draft                  loss-bits                    August 2020
 
@@ -781,4 +781,4 @@ Internet-Draft                  loss-bits                    August 2020
 
 
 
-Ferrieux, et al.         Expires 4 February 2021               [Page 14]
+Ferrieux, et al.         Expires 8 February 2021               [Page 14]
