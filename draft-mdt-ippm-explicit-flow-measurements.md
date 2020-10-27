@@ -126,16 +126,16 @@ maintaining high QoS and timely resolution of crippling end-to-end throughput
 issues. To this effect, in a TCP-dominated world, network operators have been
 heavily relying on information present in the clear in TCP headers: sequence and
 acknowledgment numbers and SACKs when enabled (see {{?RFC8517}}). These allow
-for quantitative estimation of packet loss and delay by passive on-path
-observation. Additionally, the problem can be quickly identified in the network
+for quantitative estimation of upstream/downstream packet loss and delay by passive on-path
+observation. Additionally, the problem can be quickly located in the network
 path by moving the passive observer around.
 
 With encrypted protocols, the equivalent transport headers are encrypted and
 passive packet loss and delay observations are not possible, as described in
 {{TRANSPORT-ENCRYPT}}.
 
-Measuring TCP loss and delay between similar endpoints cannot be relied upon to
-evaluate encrypted protocol loss and delay. Different protocols could be routed
+
+One may attemps to deduce loss and delay for communications supported by encrypted protocol from those of TCP connections running on the presumed same path (i.e. between similar end-points). However, different protocols are commonly routed ar load-balanced 
 by the network differently, and the fraction of Internet traffic delivered using
 protocols other than TCP is increasing every year. It is imperative to measure
 packet loss and delay experienced by encrypted protocol users directly.
@@ -160,7 +160,7 @@ UDP surplus space (see {{UDP-OPTIONS}} and {{UDP-SURPLUS}}), reserved bits in a
 QUIC v1 header (see {{QUIC-TRANSPORT}}).
 
 The loss signal is not designed for use in automated control of the network in
-environments where loss bits are set by untrusted hosts, Instead, the signal is
+environments where loss bits are set by untrusted hosts. Instead, the signal is
 to be used for troubleshooting individual flows as well as for monitoring the
 network by aggregating information from multiple flows and raising operator
 alarms if aggregate statistics indicate a potential problem.
